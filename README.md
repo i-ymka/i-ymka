@@ -42,23 +42,12 @@ The idea: becoming a public personality is a skill, not a talent. StreamLoop giv
 
 ---
 
-### stats
-
 <div align="center">
 
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=i-ymka&theme=midnight_purple)&nbsp;
-![langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=i-ymka&theme=midnight_purple)
-
-![streak](https://streak-stats.demolab.com/?user=i-ymka&theme=midnight-purple&hide_border=true&card_width=450)
-
-</div>
-
----
-
-<div align="center">
+![streak](https://streak-stats.demolab.com/?user=i-ymka&theme=midnight-purple&hide_border=true&card_width=500)
 
 *open to freelance*&nbsp;·&nbsp;[iymka.com](https://iymka.com)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=80&section=footer&reversal=true)
 
 </div>
