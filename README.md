@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=ymka&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=developer%20%C2%B7%20builder%20%C2%B7%20automator&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:6C3AED,50:9B59B6,100:A78BFA&height=180&section=header&text=ymka&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=developer%20%C2%B7%20builder%20%C2%B7%20automator&descAlignY=58&descSize=18)
 
 [![Website](https://img.shields.io/badge/iymka.com-6C3AE0?style=for-the-badge&logoColor=white)](https://iymka.com)&nbsp;
 [![StreamLoop](https://img.shields.io/badge/StreamLoop-9B59B6?style=for-the-badge&logo=twitch&logoColor=white)](https://streamloop.org)
@@ -48,6 +48,6 @@ The idea: becoming a public personality is a skill, not a talent. StreamLoop giv
 
 *open to freelance*&nbsp;·&nbsp;[iymka.com](https://iymka.com)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=80&section=footer&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:6C3AED,50:9B59B6,100:A78BFA&height=80&section=footer&reversal=true)
 
 </div>
