@@ -35,7 +35,7 @@ The idea: becoming a public personality is a skill, not a talent. StreamLoop giv
 
 | project | what it is |
 |---------|-----------|
-| **[StreamLoop](https://streamloop.org)** | coaching app for beginner streamers — personalized task loops with AI feedback |
+| **[streamloop](https://streamloop.org)** | coaching app for beginner streamers — personalized task loops with AI feedback |
 | **[cursor-translator](https://github.com/i-ymka/cursor-translator)** | VS Code extension for in-editor translations |
 | **[wordpress & telegram poster](https://github.com/i-ymka/wordpress_and_telegram_posters)** | automated RSS → GPT filter → Telegram + WordPress publishing pipeline |
 | **[retail superstore analysis](https://github.com/i-ymka/retail-superstore-analysis)** | data cleaning + BI-ready analytics on Kaggle Superstore dataset |
