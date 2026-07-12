@@ -22,7 +22,6 @@ In my own time I build full-stack web products end to end.
 |------|-------|
 | Voice AI agent — 300+ outbound calls/day | Vapi · Make.com · OpenAI |
 | eBay listing monitor — proxy rotation, anti-bot, 24/7 uptime | Python · Playwright |
-| Judicial scraper — 500k records/run, persistent DB | Python · async · Playwright |
 | Workflow automations — recurring client ops on autopilot | n8n · Make.com |
 | [comment-translator](https://github.com/i-ymka/comment-translator) — VS Code extension, in-editor DeepL | TypeScript |
 | [maybank2ynab](https://github.com/i-ymka/maybank2ynab) — PDF statement parser, runs in browser | JavaScript |
