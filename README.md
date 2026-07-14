@@ -21,7 +21,7 @@ In my own time I build full-stack web products end to end.
 | what | stack |
 |------|-------|
 | Voice AI agent — qualifies callers and books them into a calendar | Vapi · Make.com · OpenAI |
-| eBay listing monitor — webhook alerts on new listings, proxy rotation, anti-bot handling | Python · Playwright |
+| [eBay listing monitor](https://github.com/i-ymka/eBay-parser) — webhook alerts on new listings, proxy rotation, anti-bot handling | Python · Playwright |
 | Workflow automations for recurring client operations | n8n · Make.com |
 | [comment-translator](https://github.com/i-ymka/comment-translator) — VS Code extension, in-editor DeepL | TypeScript |
 | [maybank2ynab](https://github.com/i-ymka/maybank2ynab) — PDF statement parser, runs in browser | JavaScript |
@@ -38,4 +38,4 @@ automation = ["n8n", "Make.com", "Python", "Playwright", "webhooks"]
 
 ---
 
-open to work · [iymka.com/web](https://iymka.com/web)
+open to work · [iymka.com/automation](https://iymka.com/automation)
